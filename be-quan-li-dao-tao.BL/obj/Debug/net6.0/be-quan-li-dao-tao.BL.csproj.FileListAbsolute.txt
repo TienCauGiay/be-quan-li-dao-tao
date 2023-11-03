@@ -1,0 +1,12 @@
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\bin\Debug\net6.0\be-quan-li-dao-tao.BL.deps.json
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\bin\Debug\net6.0\be-quan-li-dao-tao.BL.dll
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\bin\Debug\net6.0\be-quan-li-dao-tao.BL.pdb
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.csproj.AssemblyReference.cache
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.AssemblyInfoInputs.cache
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.AssemblyInfo.cs
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.csproj.CoreCompileInputs.cache
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.dll
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\refint\be-quan-li-dao-tao.BL.dll
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\be-quan-li-dao-tao.BL.pdb
+F:\DHGTVT\Cong_Nghe_Phan_Mem\be-quan-li-dao-tao\be-quan-li-dao-tao.BL\obj\Debug\net6.0\ref\be-quan-li-dao-tao.BL.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\be-quan-li-dao-tao.API.props" />
+</Project>
